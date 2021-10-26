@@ -1,6 +1,6 @@
 {
   "name": "is-validate",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "NPM package to check form field validation.",
   "main": "index.js",
   "scripts": {
