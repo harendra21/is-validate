@@ -1,0 +1,26 @@
+{
+  "name": "is-validate",
+  "version": "1.0.0",
+  "description": "NPM package to check form field validation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harendra21/is-validate.git"
+  },
+  "keywords": [
+    "is-email",
+    "is-phone",
+    "is-url",
+    "is-date",
+    "is-time"
+  ],
+  "author": "Harendra Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harendra21/is-validate/issues"
+  },
+  "homepage": "https://github.com/harendra21/is-validate#readme"
+}
